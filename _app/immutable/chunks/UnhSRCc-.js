@@ -1,0 +1,1 @@
+var e=`Metadash`,t=`Fortunoff Video Archive for Holocaust Testimonies`,n=`https://fortunoff.library.yale.edu/`,r=`https://fortunoff.aviaryplatform.com/`,i=`${e} - ${t}`,a=n=>n?`${e} – ${n} – ${t}`:i;export{a as i,r as n,e as r,n as t};

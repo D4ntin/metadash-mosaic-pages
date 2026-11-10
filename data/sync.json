@@ -1,0 +1,293 @@
+{
+  "synced_at": "2026-10-21T15:15:58Z",
+  "store": "/mnt/linux/home/dantin/workspace/fortunoff/aviary-data/.cache/store",
+  "run_id": "20261021T151131Z",
+  "published": "2026-10-21T15:15:03.121799+00:00",
+  "run_mode": "incremental",
+  "upstream_git_sha": "1941c412684d908d58fb4da1d7a3f5ea1de00111",
+  "contract_version": 1,
+  "visibilities": ["public"],
+  "counts": {
+    "corrections_applied": {
+      "mapping": {
+        "internal": 51,
+        "private": 0,
+        "public": 568,
+        "restricted": 1,
+        "withheld": 0
+      },
+      "nbsp_to_space": {
+        "internal": 54,
+        "private": 0,
+        "public": 212,
+        "restricted": 0,
+        "withheld": 0
+      },
+      "strip_authority_uri": {
+        "internal": 0,
+        "private": 0,
+        "public": 9,
+        "restricted": 0,
+        "withheld": 0
+      }
+    },
+    "topical": {
+      "neither_men_nor_women": {
+        "internal": 15,
+        "private": 3,
+        "public": 388,
+        "restricted": 0,
+        "withheld": 0
+      }
+    },
+    "related": {
+      "unresolved": {
+        "internal": 49,
+        "private": 0,
+        "public": 1,
+        "restricted": 0,
+        "withheld": 0
+      }
+    }
+  },
+  "checks": {
+    "agent_unbadged": {
+      "internal": 5,
+      "private": 0,
+      "public": 57,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "camp_named_unqualified": {
+      "internal": 3,
+      "private": 0,
+      "public": 74,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "duration_ambiguous": {
+      "internal": 0,
+      "private": 0,
+      "public": 0,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "field_multivalued": {
+      "internal": 0,
+      "private": 0,
+      "public": 0,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "geographic_unqualified": {
+      "internal": 20,
+      "private": 0,
+      "public": 41,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "interviewee_authority_two_numbers": {
+      "internal": 0,
+      "private": 0,
+      "public": 71,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "interviewee_form_unpaired": {
+      "internal": 25,
+      "private": 0,
+      "public": 177,
+      "restricted": 1,
+      "withheld": 0
+    },
+    "interviewee_no_shared": {
+      "internal": 0,
+      "private": 0,
+      "public": 48,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "label_badge_variant": {
+      "internal": 0,
+      "private": 0,
+      "public": 3,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "lcsh_reject": {
+      "internal": 3,
+      "private": 0,
+      "public": 13,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "lost_mark": {
+      "internal": 0,
+      "private": 0,
+      "public": 110,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "name_date_form": {
+      "internal": 5,
+      "private": 0,
+      "public": 30,
+      "restricted": 1,
+      "withheld": 0
+    },
+    "name_dated_twin": {
+      "internal": 0,
+      "private": 0,
+      "public": 6,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "name_form_reject": {
+      "internal": 4,
+      "private": 0,
+      "public": 15,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "name_paren_not_fuller_form": {
+      "internal": 0,
+      "private": 0,
+      "public": 3,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "recording_date_late": {
+      "internal": 0,
+      "private": 0,
+      "public": 10,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "recording_date_reject": {
+      "internal": 0,
+      "private": 0,
+      "public": 2,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "recording_place_reject": {
+      "internal": 0,
+      "private": 0,
+      "public": 0,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "related_reject": {
+      "internal": 2,
+      "private": 0,
+      "public": 9,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "related_self_reference": {
+      "internal": 0,
+      "private": 0,
+      "public": 3,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "related_unresolved": {
+      "internal": 48,
+      "private": 0,
+      "public": 1,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "self_heading_differs": {
+      "internal": 19,
+      "private": 0,
+      "public": 121,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "separator_spacing": {
+      "internal": 1,
+      "private": 0,
+      "public": 10,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "spelling_suspect": {
+      "internal": 2,
+      "private": 0,
+      "public": 65,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "term_twin": {
+      "internal": 0,
+      "private": 0,
+      "public": 18,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "value_empty": {
+      "internal": 0,
+      "private": 0,
+      "public": 0,
+      "restricted": 0,
+      "withheld": 0
+    },
+    "whitespace_in_component": {
+      "internal": 12,
+      "private": 0,
+      "public": 27,
+      "restricted": 1,
+      "withheld": 0
+    }
+  },
+  "files_hash": "7fd2e967eefd00225d1d392f472a65d1b48c38c5de1e11ef95d95abd3bcfb9d3",
+  "files": [
+    { "path": "public/collections.parquet", "bytes": 7106, "sha256": "16f10d239340f21f9cbbb3c1894fc8fd9f7a3fcb6fc5898093a82d304cff0025" },
+    { "path": "public/metadash/abstracts.parquet", "bytes": 1527301, "sha256": "96d29fb124889191b4bb134708e35aed86dfc9d37c8c452f72f99b1d1b321aa2" },
+    { "path": "public/metadash/age_bands.parquet", "bytes": 951, "sha256": "a1ecb1f58131bb961b2633456c04a59fff2b0e11f670360800cba7a4bf09fec1" },
+    { "path": "public/metadash/agents.parquet", "bytes": 32781, "sha256": "f64557c88b3c1684a67e774b6b5434563176474912d1b776efc6caa3ad462adc" },
+    { "path": "public/metadash/agents_corrected.parquet", "bytes": 56375, "sha256": "bb785174f4046c579514a0285598f79dc0ba7c4c11af4889ed5bfd9ca16148c1" },
+    { "path": "public/metadash/archive_checks.parquet", "bytes": 23225, "sha256": "b207fbafacd8d1ac8edc6536f4502736e0a32f514c8619f9d500e19446caaca4" },
+    { "path": "public/metadash/associated_materials.parquet", "bytes": 35046, "sha256": "7d02b566209529351d417ab7eaea1c4ce0f8a7ae0fcd9c38da32569d5ce21b78" },
+    { "path": "public/metadash/associated_materials_corrected.parquet", "bytes": 67354, "sha256": "45a41186d9c4aceed2b0cf4f17766107838a4245c415e282f76b61d0bdfc2f61" },
+    { "path": "public/metadash/camps.parquet", "bytes": 41071, "sha256": "f1e9b03c6cefc4c83d2f005908ede24d43fb99eba1a66ce3411d7e114bf305af" },
+    { "path": "public/metadash/camps_vocabulary.parquet", "bytes": 14400, "sha256": "28f9487aae54413bf1ce86bee2a88660607949756075649453d63304fcf669ae" },
+    { "path": "public/metadash/contract.parquet", "bytes": 222, "sha256": "3f4168f40f657695bda34f894521baf9d6aa0c430991b6a4ca0811086b33e0cb" },
+    { "path": "public/metadash/corrections.parquet", "bytes": 7367, "sha256": "03b7b4c6f8c87e6f2646d43f76aefbf99abd92b6d8e8eb3d733bb18a7bc808ab" },
+    { "path": "public/metadash/corrections_applied.parquet", "bytes": 10262, "sha256": "72d088b47c379ec65e0397b8f641b3252b416b228997237d9b9d27ce8f499d0b" },
+    { "path": "public/metadash/digital_object_ids.parquet", "bytes": 6731, "sha256": "58e3a5b871fcb501440817b0fc7e515327e7a147fb0e19fa62e493145ede606f" },
+    { "path": "public/metadash/durations.parquet", "bytes": 30219, "sha256": "6a21ff652550332e7cec72f6abb3165bb8198c8515690ca78e5d01f63cd20ce8" },
+    { "path": "public/metadash/geographic_memberships.parquet", "bytes": 129691, "sha256": "b1225e8ffdcf55487d41849c83bba10b8590861223673cdbbd5c4dc69158a079" },
+    { "path": "public/metadash/geographic_terms.parquet", "bytes": 130336, "sha256": "96ae1890414e37a829cd10402822fcfd89e8e06f4f233e998fc9535f6e00e8e5" },
+    { "path": "public/metadash/interviewees.parquet", "bytes": 80919, "sha256": "6ad2c4332545e565c0d0f9514721bedccdcaede6a4765fb2f66ae2e5fbcfcd3a" },
+    { "path": "public/metadash/interviewees_corrected.parquet", "bytes": 66207, "sha256": "29a9aaef631e9e061b2e1fca09d9f53d6b8aa9452e63973787ca1310770fa905" },
+    { "path": "public/metadash/interviewers.parquet", "bytes": 23568, "sha256": "fa5a766c1defb1d7d2e393d4ad9205d6325272bf2b059f9ff51e16078192e3ac" },
+    { "path": "public/metadash/languages.parquet", "bytes": 7789, "sha256": "bac7578668bc79836aaa906633676ad1d28c2ddf99374e3f6cc8af9ba8af2562" },
+    { "path": "public/metadash/lcsh_facets.parquet", "bytes": 443, "sha256": "37a63bb368caebb165ac00a69d12f66664d06173dc07e4ea6c04b842387268c7" },
+    { "path": "public/metadash/lcsh_geographic.parquet", "bytes": 131467, "sha256": "fe384f4f99aa6dfab69b82bae667e4be0c124c533685cc70b3c802b5544270e5" },
+    { "path": "public/metadash/lcsh_name.parquet", "bytes": 154058, "sha256": "85596f994be6e446ec45e546184e0b16714e87885d4d4fa5c9d5ab95d46acb23" },
+    { "path": "public/metadash/lcsh_rejects.parquet", "bytes": 176, "sha256": "95a60dab97a9b288b429ed9a474a9c79c3020c86963587830c4dc94d73c07637" },
+    { "path": "public/metadash/lcsh_topical.parquet", "bytes": 31579, "sha256": "e3608e602806b5b4aeb7d25ba253909eef7aed7ece87997123e7f10b2845577b" },
+    { "path": "public/metadash/name_form_memberships.parquet", "bytes": 62556, "sha256": "b73a169061c19cfd01df78231208be90b49c97486da040c15b3f70d9171e2589" },
+    { "path": "public/metadash/name_form_rejects.parquet", "bytes": 1148, "sha256": "6f1e75c5e82c05e7d73fc7b7bf73b193ba1fa56a3e0ea5b5c72411d33e3ab86d" },
+    { "path": "public/metadash/name_forms.parquet", "bytes": 69673, "sha256": "94aa9518a5e9fd9553945621f484ea5bca5d002dbb7307c4976b088edba5a34b" },
+    { "path": "public/metadash/person_corporate.parquet", "bytes": 209580, "sha256": "9156ba67f4c3a8aaa97df5fc6b5aba6535157f36c172aa23fb1e9427630241ff" },
+    { "path": "public/metadash/physical_formats.parquet", "bytes": 9417, "sha256": "4860112ab8158efb727c180cca278e8bbd0f265349be73e8f04d6daf186ff37d" },
+    { "path": "public/metadash/preservica_uris.parquet", "bytes": 22151, "sha256": "be7e7acf8d9c68758e0516bc08841b10be6a790650808eddeafcfa8b429ad3a4" },
+    { "path": "public/metadash/recording_date_rejects.parquet", "bytes": 671, "sha256": "bf292f276124fb19be6015321a9de33cf3307d9b0f424954c0abf4107801300b" },
+    { "path": "public/metadash/recording_dates.parquet", "bytes": 34497, "sha256": "96775db149e4422968d6219176e12612daa1e1e79c7babd6c675f224ad2e3fe2" },
+    { "path": "public/metadash/recording_place_rejects.parquet", "bytes": 156, "sha256": "176a96ffd2cd3adcec47bbb7310b981967f1361065994ab44bcf5baff7967ca8" },
+    { "path": "public/metadash/recording_places.parquet", "bytes": 12967, "sha256": "1dcdbf7e9e6f225bd5c49c652ea2f6f1458750c96ce7f8c148b4348ae77559d6" },
+    { "path": "public/metadash/related_rejects.parquet", "bytes": 18916, "sha256": "f0e84f471347a35d65fa80fd773e125d58d525b993ea39051cd6943f2c1d2027" },
+    { "path": "public/metadash/related_testimonies.parquet", "bytes": 21461, "sha256": "a8ed5a9e2dda11dafbffd749c4ea62122a872bffba4e79afeca9d56912e7e50e" },
+    { "path": "public/metadash/related_testimony_values.parquet", "bytes": 2046, "sha256": "b6eecf3627f7b486857d054616b543b262ed3cf006392c70fe1b27684c3337a2" },
+    { "path": "public/metadash/related_testimony_values_corrected.parquet", "bytes": 3514, "sha256": "12863b3d075d05d140540d584e8d47449e32feac1c35de99dcbf8111f3b38689" },
+    { "path": "public/metadash/subjects.parquet", "bytes": 362704, "sha256": "983c141a3057b302ede67576d2660e524b445d8ea94e06c5ef98091d098d351a" },
+    { "path": "public/metadash/subjects_corrected.parquet", "bytes": 658346, "sha256": "5ac0af6a14b8c827d0d3e400cf7fc4f7397f33954d310085075181f086db7ca9" },
+    { "path": "public/metadash/testimonies.parquet", "bytes": 74796, "sha256": "d358aa6badd000c20b0034fe39d5c53babe13fdaa56c3e15a619de434ca8c71a" },
+    { "path": "public/metadash/topical_memberships.parquet", "bytes": 117842, "sha256": "a4fc00ba28f9e41b29244d7461ca868ccef51a7c10227540d2ca120131282e1b" },
+    { "path": "public/metadash/topical_nodes.parquet", "bytes": 29388, "sha256": "bb7351841f4739efa83f206d45bbefb1e61c3f90ffaffa2f49ea597d0044257d" },
+    { "path": "public/resources.parquet", "bytes": 423666, "sha256": "0dd5759455016ccf56ef4189f29eac476b6c9d5bce2df5b55835ea74891a9286" }
+  ]
+}

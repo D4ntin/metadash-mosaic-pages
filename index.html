@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="./brand/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./brand/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./brand/favicon-16x16.png" />
+    <title>Metadash - Fortunoff Video Archive for Holocaust Testimonies</title>
+    <meta name="description" content="Explore the testimonies of the Fortunoff Video Archive for Holocaust Testimonies: narrow them by language, topic, camp, interviewer, place of recording, the narrators' birth years and the years of recording, and read each testimony's record." />
+    <meta property="og:title" content="Metadash - Fortunoff Video Archive for Holocaust Testimonies" />
+    <meta property="og:description" content="Explore the testimonies of the Fortunoff Video Archive for Holocaust Testimonies: narrow them by language, topic, camp, interviewer, place of recording, the narrators' birth years and the years of recording, and read each testimony's record." />
+    <script>
+      // Pre-paint theme (ticket 13): mirrors $lib/theme.svelte.js so the first frame is already dark when
+      // it should be. Keep the two in step.
+      try {
+        var t = localStorage.getItem('fortunoff.theme');
+        if (t === 'dark' || (t !== 'light' && matchMedia('(prefers-color-scheme: dark)').matches)) document.documentElement.classList.add('dark');
+      } catch (e) {}
+    </script>
+    <link href="./_app/immutable/entry/start.B7dDlUOF.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/DBNKV6fh.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/Ch0T0LxS.js" rel="modulepreload">
+		<link href="./_app/immutable/entry/app.VoH_5DBn.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/xihTtKlq.js" rel="modulepreload">
+		<link href="./_app/immutable/nodes/0.3Ll1Emtf.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/DlvV2t2F.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/UnhSRCc-.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/BnH7GG5L.js" rel="modulepreload">
+		<link href="./_app/immutable/nodes/2.C0Gv5OIG.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/D5s02BMj.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/BVwyZdd6.js" rel="modulepreload">
+		
+		<link href="./_app/immutable/assets/SiteName.DaZQ6wEQ.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/0.B5Q8DUHS.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/DetailPane.DA1LLIBW.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/2.CTaEcY-2.css" rel="stylesheet">
+  </head>
+  <body data-sveltekit-preload-data="hover">
+    <div style="display: contents">
+			<script>
+				{
+					__sveltekit_5adigp = {
+						base: new URL(".", location).pathname.slice(0, -1),
+						assets: "/metadash-mosaic-pages"
+					};
+
+					const element = document.currentScript.parentElement;
+
+					Promise.all([
+						import("./_app/immutable/entry/start.B7dDlUOF.js"),
+						import("./_app/immutable/entry/app.VoH_5DBn.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element);
+					});
+				}
+			</script>
+		</div>
+  </body>
+</html>
